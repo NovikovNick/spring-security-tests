@@ -1,0 +1,6 @@
+rootProject.name = 'spring-security-tests'
+include 'app'
+include 'model'
+include 'service'
+include 'rest-api'
+
